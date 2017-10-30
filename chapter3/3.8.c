@@ -1,4 +1,4 @@
-//这是在CSDN上看到的一个答案
+//这是在CSDN上看到的一个答案http://blog.csdn.net/qq789045/article/category/6130050
 //目前看不懂，等过一段时间在过来看看，现在现在这里备注一下。
 #include<stdio.h>  
 #include<math.h>  
